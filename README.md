@@ -1,4 +1,4 @@
-# # Face Recognition Using Facenet and mtcnn 
+# Face Recognition Using Facenet and mtcnn 
 
 ## Inspiration
 
@@ -37,3 +37,4 @@ images folder
     
    for real time recognition  : 
    run video.py 
+   ![demo](demo.png)

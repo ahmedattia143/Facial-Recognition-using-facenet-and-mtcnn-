@@ -33,7 +33,7 @@ images folder
 2. If you want to recognize faces from images : 
    place some images for test in test_images folder , run images.py , you   will find results in images_reco  . 
     
-    ![demo](images_reco.jpeg)
+    ![demo](images_reco/cristiano.jpeg)
     
    for real time recognition  : 
    run video.py 
